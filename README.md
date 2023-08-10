@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+---
+
 ### :man_technologist: About Me :
 I am a passionate student from Spain, mostly interested in Data Structures & Algorithms.
 
