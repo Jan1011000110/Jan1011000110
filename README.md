@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### :man_technologist: About Me :
+I am a passionate student from Spain, mostly interested in Data Structures & Algorithms.
+
+- 🌱 I am currently studying at **Computer Engineering at FIB, UPC.**
+- 📫 How to reach me: [Contact me](mailto:janmatasc@gmail.com)
+
 <!--
 **Jan1011000110/Jan1011000110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
