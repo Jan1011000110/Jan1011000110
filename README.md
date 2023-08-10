@@ -12,9 +12,11 @@ I am a passionate student from Spain, mostly interested in Data Structures & Alg
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jan1011000110)](https://github.com/anuraghazra/github-readme-stats)
+[![My Github Stats](https://github-readme-stats.vercel.app/api/?username=Jan1011000110&count_private=true&theme=tokyonight&showicons=true)
 
 
 <!--
