@@ -16,7 +16,7 @@ I am a passionate student from Spain, mostly interested in Data Structures & Alg
 </div>
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=original)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jan1011000110&langs_count=5&theme=original)]()
 [![Jan's Github Stats](https://github-readme-stats.vercel.app/api/?username=Jan1011000110&count_private=true&theme=original&showicons=true)
 
 
