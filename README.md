@@ -15,8 +15,9 @@ I am a passionate student from Spain, mostly interested in Data Structures & Alg
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
 </div>
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jan1011000110)](https://github.com/anuraghazra/github-readme-stats)
-[![My Github Stats](https://github-readme-stats.vercel.app/api/?username=Jan1011000110&count_private=true&theme=tokyonight&showicons=true)
+[![Jan's Github Stats](https://github-readme-stats.vercel.app/api/?username=Jan1011000110&count_private=true&theme=original&showicons=true)
 
 
 <!--
