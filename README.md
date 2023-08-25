@@ -5,7 +5,7 @@
 ### :man_technologist: About Me :
 I am a passionate student from Spain, mostly interested in Data Structures & Algorithms.
 
-- 🌱 I am currently studying at **Computer Engineering at FIB, UPC.**
+- 🌱 I am currently studying **Computer Engineering at FIB, UPC.**
 - 📫 How to reach me: [Contact me](mailto:janmatasc@gmail.com)
 
 ### :hammer_and_wrench: Languages and Tools:
