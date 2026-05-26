@@ -5,7 +5,7 @@
 ### :man_technologist: About Me :
 I am a passionate student from Spain, mostly interested in competitive programming and ML.
 
-- 🌱 I am currently studying **Mathematics at FME, UPC.**
+- 🌱 I am currently studying **Mathematics and Data Science Engineering at CFIS, UPC.**
 - 📫 How to reach me: [Contact me](mailto:janmatasc@gmail.com)
 
 ### :hammer_and_wrench: Languages and Tools:
