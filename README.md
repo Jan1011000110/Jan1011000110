@@ -16,8 +16,9 @@ I am a passionate student from Spain, mostly interested in competitive programmi
 </div>
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jan1011000110&langs_count=5&theme=original)]()
-![My Github Stats](https://github-readme-stats.vercel.app/api/?username=Jan1011000110&count_private=true&theme=original&showicons=true)
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jan1011000110&langs_count=5&theme=original)
+
+![My Github Stats](https://github-readme-stats.vercel.app/api/?username=Jan1011000110&count_private=true&theme=original&show_icons=true)
 
 
 <!--
